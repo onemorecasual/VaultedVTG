@@ -1,6 +1,6 @@
  :root {
-  --ink: #201d18; --paper: #f2eee5; --cream: #e4dbc9; --orange: #c55b36;
-  --lime: #d8e26d; --muted: #6d665b; --line: rgba(32,29,24,.2);
+  --ink: #201d18; --paper: #f2eee5; --cream: #F0E6D5; --orange: #795548;
+  --lime: #697456; --muted: #6d665b; --line: rgba(32,29,24,.2);
   --serif: "Playfair Display", Georgia, serif; --sans: "Work Sans", Arial, sans-serif; --mono: "DM Mono", monospace;
 }
 * { box-sizing: border-box; }
