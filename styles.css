@@ -43,7 +43,7 @@ h1 em, h2 em { color: var(--orange); font-weight: 600; }
 .tag-front strong { font-size: 54px; letter-spacing: -.1em; }
 .tag-front small { font: 8px var(--mono); letter-spacing: .12em; border-top: 1px solid var(--ink); padding-top: 10px; margin-top: 10px; }
 .scribble { position: absolute; left: 7%; bottom: 8%; color: var(--ink); font: italic 22px var(--serif); transform: rotate(-8deg); z-index: 2; }
-.ticker { overflow: hidden; background: var(--lime); border-top: 1px solid var(--ink); border-bottom: 1px solid var(--ink); white-space: nowrap; padding: 15px 0; font: 11px var(--mono); letter-spacing: .1em; }
+.ticker { overflow: hidden; background: var(--lime); border-top: 1px solid var(--ink); border-bottom: 1px solid var(--ink); white-space: nowrap; padding: 15px 0; font: 16px var(--mono); letter-spacing: .1em; }
 .ticker div { min-width: max-content; text-align: center; }
 .ticker span { margin: 0 20px; color: var(--orange); }
 .shop-section { padding: 92px 8% 96px; }
